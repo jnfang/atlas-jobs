@@ -1,10 +1,10 @@
 export const colors = {
-  background: "#FFEBC6",
-  text: "#003844",
-  primary: "#006C67",
-  muted: "#FFB100",
-  active: "#F194B4",
+  background: "#8CDCFC",
+  text: "#25466e",
+  primary: "#F75590",
+  muted: "#FBD87F",
+  active: "#F75590",
   black: "#000",
 }
 
-// https://coolors.co/003844-006c67-f194b4-ffb100-ffebc6
+// https://coolors.co/25466e-8cdcfc-f75590-fce4d8-fbd87f
